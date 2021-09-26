@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Commands>
+	
+	<startup>
+		<supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+	</startup>
+	<ELK_SEARCH_STRING>
+		<![CDATA[{
+  "aggs": {
+    "42fb8758-98ff-48f9-ae60-0e498058adfe": {
+      "terms": {
+        "field": "job_name.keyword",
+        "order": {
+          "_count": "desc"
+        },
+        "size": 5
+      }
+    }
+  },
+  "size": 0,
+  "fields": [
+    {
+      "field": "@timestamp",
+      "format": "date_time"
+    }
+  ],
+  "script_fields": {},
+  "stored_fields": [
+    "*"
+  ],
+  "runtime_mappings": {},
+  "_source": {
+    "excludes": []
+  },
+  "query": {
+    "bool": {
+      "must": [],
+      "filter": [
+        {
+          "match_all": {}
+        },
+        {
+          "match_all": {}
+        },
+        {
+          "range": {
+            "@timestamp": {
+              "gte": "2021-08-10T03:41:33.629Z",
+              "lte": "2021-08-22T03:41:33.629Z",
+              "format": "strict_date_optional_time"
+            }
+          }
+        }
+      ],
+      "should": [],
+      "must_not": []
+    }
+  }
+            }]]>
+	</ELK_SEARCH_STRING>
+	<Soft Name="WindowsFormsApp1">
+		<Version>1.0.0.3</Version>
+		<DownLoad>E:\update</DownLoad>
+	</Soft>
+	</Commands>
+

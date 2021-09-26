@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusToolApp", "StatusToolApp\StatusToolApp.csproj", "{79535168-3C7B-438E-A1C5-F222B6A43314}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StatusTool", "StatusToolPack\StatusTool.vdproj", "{5F7F1ED8-69BD-4142-8803-3993D239BD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdateApp", "AutoUpdateApp\AutoUpdateApp.csproj", "{7B8B92C5-4D2E-4CCF-B98B-5F83325808A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79535168-3C7B-438E-A1C5-F222B6A43314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79535168-3C7B-438E-A1C5-F222B6A43314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79535168-3C7B-438E-A1C5-F222B6A43314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79535168-3C7B-438E-A1C5-F222B6A43314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7F1ED8-69BD-4142-8803-3993D239BD33}.Debug|Any CPU.ActiveCfg = Debug
+		{5F7F1ED8-69BD-4142-8803-3993D239BD33}.Release|Any CPU.ActiveCfg = Release
+		{7B8B92C5-4D2E-4CCF-B98B-5F83325808A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8B92C5-4D2E-4CCF-B98B-5F83325808A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8B92C5-4D2E-4CCF-B98B-5F83325808A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8B92C5-4D2E-4CCF-B98B-5F83325808A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7A66D9F-C03C-4885-930C-4346C89FE498}
+	EndGlobalSection
+EndGlobal

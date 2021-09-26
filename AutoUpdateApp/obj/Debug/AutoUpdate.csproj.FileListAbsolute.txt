@@ -1,0 +1,9 @@
+E:\C#-workspace\TrayIcon\WpfApp1\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+E:\C#-workspace\TrayIcon\WpfApp1\AutoUpdate\bin\Debug\AutoUpdate.exe
+E:\C#-workspace\TrayIcon\WpfApp1\AutoUpdate\bin\Debug\AutoUpdate.pdb
+E:\C#-workspace\TrayIcon\WpfApp1\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+E:\C#-workspace\TrayIcon\WpfApp1\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+E:\C#-workspace\TrayIcon\WpfApp1\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.cache
+E:\C#-workspace\TrayIcon\WpfApp1\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+E:\C#-workspace\TrayIcon\WpfApp1\AutoUpdate\obj\Debug\AutoUpdate.exe
+E:\C#-workspace\TrayIcon\WpfApp1\AutoUpdate\obj\Debug\AutoUpdate.pdb
