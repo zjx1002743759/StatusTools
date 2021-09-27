@@ -26,3 +26,17 @@ E:\C#-workspace\TrayIcon\StatusToolApp\obj\Debug\StatusToolApp.csproj.CoreCompil
 E:\C#-workspace\TrayIcon\StatusToolApp\obj\Debug\StatusToolApp.csproj.CopyComplete
 E:\C#-workspace\TrayIcon\StatusToolApp\obj\Debug\WindowsFormsApp1.exe
 E:\C#-workspace\TrayIcon\StatusToolApp\obj\Debug\WindowsFormsApp1.pdb
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\bin\Debug\Config.xml
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\bin\Debug\WindowsFormsApp1.exe.config
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\bin\Debug\WindowsFormsApp1.exe
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\bin\Debug\WindowsFormsApp1.pdb
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\bin\Debug\Newtonsoft.Json.dll
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\bin\Debug\Newtonsoft.Json.xml
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\obj\Debug\StatusToolApp.csproj.AssemblyReference.cache
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\obj\Debug\WindowsFormsApp1.StatusMainForm.resources
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\obj\Debug\StatusToolApp.csproj.GenerateResource.cache
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\obj\Debug\StatusToolApp.csproj.CoreCompileInputs.cache
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\obj\Debug\StatusToolApp.csproj.CopyComplete
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\obj\Debug\WindowsFormsApp1.exe
+E:\C#-workspace\GitHub\StatusTools\StatusToolApp\obj\Debug\WindowsFormsApp1.pdb

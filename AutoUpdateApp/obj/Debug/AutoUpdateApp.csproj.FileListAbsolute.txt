@@ -18,3 +18,13 @@ E:\C#-workspace\TrayIcon\AutoUpdateApp\obj\Debug\AutoUpdateApp.csproj.GenerateRe
 E:\C#-workspace\TrayIcon\AutoUpdateApp\obj\Debug\AutoUpdateApp.csproj.CoreCompileInputs.cache
 E:\C#-workspace\TrayIcon\AutoUpdateApp\obj\Debug\AutoUpdate.exe
 E:\C#-workspace\TrayIcon\AutoUpdateApp\obj\Debug\AutoUpdate.pdb
+E:\C#-workspace\GitHub\StatusTools\AutoUpdateApp\obj\Debug\AutoUpdateApp.csproj.AssemblyReference.cache
+E:\C#-workspace\GitHub\StatusTools\AutoUpdateApp\obj\Debug\AutoUpdate.UpdateForm.resources
+E:\C#-workspace\GitHub\StatusTools\AutoUpdateApp\obj\Debug\AutoUpdate.Properties.Resources.resources
+E:\C#-workspace\GitHub\StatusTools\AutoUpdateApp\obj\Debug\AutoUpdateApp.csproj.GenerateResource.cache
+E:\C#-workspace\GitHub\StatusTools\AutoUpdateApp\obj\Debug\AutoUpdateApp.csproj.CoreCompileInputs.cache
+E:\C#-workspace\GitHub\StatusTools\AutoUpdateApp\obj\Debug\AutoUpdate.exe
+E:\C#-workspace\GitHub\StatusTools\AutoUpdateApp\obj\Debug\AutoUpdate.pdb
+E:\C#-workspace\GitHub\StatusTools\AutoUpdateApp\bin\Debug\AutoUpdate.exe.config
+E:\C#-workspace\GitHub\StatusTools\AutoUpdateApp\bin\Debug\AutoUpdate.exe
+E:\C#-workspace\GitHub\StatusTools\AutoUpdateApp\bin\Debug\AutoUpdate.pdb
