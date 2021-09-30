@@ -19,7 +19,6 @@ namespace AutoUpdate
 
         public event UpdateState UpdateFinish;
 
-        private int size;
 
         //加载的文件
         private string loadFile;
@@ -41,11 +40,7 @@ namespace AutoUpdate
             }
         }
 
-        public int Size 
-        {
-            get { return size; }
-            set { this.size = value; }
-        }
+       
         public string LoadFile
         {
             get { return loadFile; }
